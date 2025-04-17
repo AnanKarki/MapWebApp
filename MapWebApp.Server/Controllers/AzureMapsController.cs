@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MapWebApp.Server.Services;
 
-namespace AzureMapWebApi.Server.Controllers
+namespace MapWebApp.Server.Controllers
 {
     [ApiController]
     [Route("[controller]")]
