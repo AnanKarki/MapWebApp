@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapWebApp.Server", "MapWebA
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "mapwebapp.client", "mapwebapp.client\mapwebapp.client.esproj", "{BF2A89A3-E7D3-4EBF-ACFB-F5EBD5933BAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapWebAppTest", "MapWebAppTest\MapWebAppTest.csproj", "{1928ABCB-8641-4457-84DE-C4BE332CE933}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,10 +23,6 @@ Global
 		{BF2A89A3-E7D3-4EBF-ACFB-F5EBD5933BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF2A89A3-E7D3-4EBF-ACFB-F5EBD5933BAB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BF2A89A3-E7D3-4EBF-ACFB-F5EBD5933BAB}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{1928ABCB-8641-4457-84DE-C4BE332CE933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1928ABCB-8641-4457-84DE-C4BE332CE933}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1928ABCB-8641-4457-84DE-C4BE332CE933}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1928ABCB-8641-4457-84DE-C4BE332CE933}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
